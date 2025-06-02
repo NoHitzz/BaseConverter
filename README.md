@@ -8,5 +8,6 @@ A Java CLI tool to convert between decimal, binary, and hexadecimal.
 
 Compile the program with ```javac baseConverter.java``` 
 
-Run the program with ```java baseConverter --help```
+Run the program with ```java baseConverter [options] <number>```
 
+For more information run ```java baseConverter --help``` 
