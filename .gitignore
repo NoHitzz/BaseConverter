@@ -1,0 +1,16 @@
+**.DS_Store
+
+**/lib
+**/public/*
+
+**.*metadata*
+
+**.bin
+**.classpath
+**.project
+**.png
+
+*.class
+
+
+/bin/
